@@ -1,0 +1,40 @@
+{
+    "name": "developer-darkblue",
+    "displayName": "DevelopEr DarkBlue",
+    "description": "This is Visual Studio Code DarkBlue Theme",
+    "version": "1.1.1",
+    "icon": "images/logo.jpg",
+    "publisher": "DeveloperMahtab",
+    "license": "SEE LICENSE IN THE LICENSE FILE",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DeveloperMahatab/DevelopEr-DarkBlue"
+	},
+	"bugs": {
+		"email": "developermahtab@hotmail.com"
+	},
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DevelopEr DarkBlue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DevelopEr DarkBlue-color-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "Dark Theme",
+        "DarkBlue Theme",
+        "Night Wolf",
+        "Night Theme",
+        "Programmer Theme",
+        "DevelopEr DarkBlue"
+    ]
+
+}
